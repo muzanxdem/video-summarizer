@@ -36,14 +36,14 @@ source venv/bin/activate   # On Windows: venv\Scripts\activate
 pip3 install -r requirements.txt
 ```
 ## Usage
-Run the Streamlit app
+1. Run the Streamlit app
 ```
 streamlit run app.py
 ```
-You can choose to insert an YouTube URL or a video/audio files as an input.
+2. You can choose to insert an YouTube URL or a video/audio files as an input.
 ![image](https://github.com/user-attachments/assets/026b2830-abae-4fc7-815f-29dd7cd05f74)
 
-You also can ask a question about the transcript
+3. You also can ask a question about the transcript
 ![image](https://github.com/user-attachments/assets/716f2c70-9885-4c5f-972e-db868099bff0)
 
 ## License
