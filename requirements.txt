@@ -1,0 +1,8 @@
+streamlit==1.27.0
+yt-dlp==2023.10.22
+whisper==1.0
+langchain-community==0.0.1  # Use the appropriate version for your langchain-community package
+wordcloud==1.8.2.2
+matplotlib==3.8.0
+pandas==2.1.1
+nltk==3.8.1
